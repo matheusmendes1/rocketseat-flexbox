@@ -1,4 +1,4 @@
-# Project Title
+# Twitter Clone
 
 This project was created in order to train the use of the Flexible Box Module, a one-dimensional layout model. For this, a clone of a desktop version of Twitter was created
 
@@ -18,5 +18,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Considerations
 
-Project created following a course by [Rocketseat](https://rocketseat.com.br/).
-Credits to the whole team.
+Project created following a course by [Rocketseat](https://rocketseat.com.br/). Credits to the whole team.
